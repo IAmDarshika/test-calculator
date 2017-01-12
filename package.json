@@ -1,0 +1,22 @@
+{
+  "name": "virtualcalci",
+  "version": "0.0.1",
+  "description": "Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmDarshika/test-calculator.git"
+  },
+  "keywords": [
+    "Virtual"
+  ],
+  "author": "DarshikaGupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAmDarshika/test-calculator/issues"
+  },
+  "homepage": "https://github.com/IAmDarshika/test-calculator#readme"
+}
